@@ -75,7 +75,7 @@ dependencies = [
 
 [[package]]
 name = "aleo-std"
-version = "0.1.18"
+version = "=0.1.18"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c3aa6ad1a3bb96698e7e8d8e42a6f2fda3b8611a43aab4d5effb921f18798833"
 dependencies = [
